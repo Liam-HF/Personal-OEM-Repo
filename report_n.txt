@@ -1,0 +1,132 @@
+Info: Processing symbol 'TH1:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'F1:Fuse:Fuse_0805_2012Metric'.
+Info: Processing symbol 'TH10:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH9:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH8:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH7:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH6:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH5:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH4:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH3:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH2:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH12:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'JP16:Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm'.
+Info: Processing symbol 'JP15:Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm'.
+Info: Processing symbol 'JP14:Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm'.
+Info: Processing symbol 'JP13:Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm'.
+Info: Processing symbol 'JP12:Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm'.
+Info: Processing symbol 'JP11:Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm'.
+Info: Processing symbol 'JP10:Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm'.
+Info: Processing symbol 'JP9:Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm'.
+Info: Processing symbol 'JP8:Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm'.
+Info: Processing symbol 'JP7:Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm'.
+Info: Processing symbol 'TH23:Resistor_SMD:R_0603_1608Metric'.
+Info: Total warnings: 0, errors: 3.
+Info: Processing symbol 'TH32:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH31:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH30:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH29:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH28:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH27:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH26:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH25:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH24:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH11:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH22:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH21:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH20:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH19:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH18:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH17:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH16:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH15:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH14:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'TH13:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'F11:Fuse:Fuse_0805_2012Metric'.
+Info: Processing symbol 'J4:OEM:SAMTEC_T2M-110-01-X-D-TH-WT'.
+Info: Processing symbol 'J3:OEM:SAMTEC_T2M-110-01-X-D-TH-WT'.
+Info: Processing symbol 'J2:OEM:J_Bond_Pad_4p'.
+Info: Processing symbol 'J1:OEM:SAMTEC_T2M-110-01-X-D-TH-WT'.
+Info: Processing symbol 'F16:Fuse:Fuse_0805_2012Metric'.
+Info: Processing symbol 'F15:Fuse:Fuse_0805_2012Metric'.
+Info: Processing symbol 'F14:Fuse:Fuse_0805_2012Metric'.
+Info: Processing symbol 'F13:Fuse:Fuse_0805_2012Metric'.
+Info: Processing symbol 'F12:Fuse:Fuse_0805_2012Metric'.
+Info: Processing symbol 'JP5:Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm'.
+Info: Processing symbol 'F10:Fuse:Fuse_0805_2012Metric'.
+Info: Processing symbol 'F9:Fuse:Fuse_0805_2012Metric'.
+Info: Processing symbol 'F8:Fuse:Fuse_0805_2012Metric'.
+Info: Processing symbol 'F7:Fuse:Fuse_0805_2012Metric'.
+Info: Processing symbol 'F6:Fuse:Fuse_0805_2012Metric'.
+Info: Processing symbol 'F5:Fuse:Fuse_0805_2012Metric'.
+Info: Processing symbol 'F4:Fuse:Fuse_0805_2012Metric'.
+Info: Processing symbol 'F3:Fuse:Fuse_0805_2012Metric'.
+Info: Processing symbol 'F2:Fuse:Fuse_0805_2012Metric'.
+Info: Processing symbol 'J17:OEM:J_Bond_Pad_4p'.
+Info: Processing symbol 'J9:OEM:J_Bond_Pad_4p'.
+Info: Processing symbol 'J10:OEM:J_Bond_Pad_4p'.
+Info: Processing symbol 'J11:OEM:J_Bond_Pad_4p'.
+Info: Processing symbol 'J12:OEM:J_Bond_Pad_4p'.
+Info: Processing symbol 'J13:OEM:J_Bond_Pad_4p'.
+Info: Processing symbol 'J5:OEM:J_Bond_Pad_4p'.
+Info: Processing symbol 'J15:OEM:J_Bond_Pad_4p'.
+Info: Processing symbol 'J16:OEM:J_Bond_Pad_4p'.
+Info: Processing symbol 'J14:OEM:J_Bond_Pad_4p'.
+Info: Processing symbol 'J18:OEM:J_Bond_Pad_4p'.
+Info: Processing symbol 'J19:OEM:J_Bond_Pad_4p'.
+Info: Processing symbol 'JP1:Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm'.
+Info: Processing symbol 'JP2:Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm'.
+Info: Processing symbol 'JP3:Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm'.
+Info: Processing symbol 'JP4:Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm'.
+Info: Processing symbol 'JP6:Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm'.
+Info: Processing symbol 'J6:OEM:J_Bond_Pad_4p'.
+Info: Processing symbol 'J7:OEM:J_Bond_Pad_4p'.
+Info: Processing symbol 'J8:OEM:J_Bond_Pad_4p'.
+Reconnected TH29 pin 2 from Therm28 to Therm29.
+Reconnected TH25 pin 2 from Therm24 to Therm25.
+Changed REF** reference designator to TH17.
+Updated TH26 symbol association from /16ca8c5c-9512-476b-966e-7dcfeea97b3e/f44c1cf5-162e-4303-b2f7-bfff2e13f5a2 to /16ca8c5c-9512-476b-966e-7dcfeea97b3e/b9105df5-47e1-48c3-a467-397e4c29ff83.
+Reconnected TH26 pin 2 from Therm25 to Therm26.
+Added TH17 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Updated TH27 symbol association from /16ca8c5c-9512-476b-966e-7dcfeea97b3e/b9105df5-47e1-48c3-a467-397e4c29ff83 to /16ca8c5c-9512-476b-966e-7dcfeea97b3e/12cc1140-a87c-4960-84b0-009e99e9ffca.
+Reconnected TH27 pin 2 from Therm26 to Therm27.
+Updated TH28 symbol association from /16ca8c5c-9512-476b-966e-7dcfeea97b3e/12cc1140-a87c-4960-84b0-009e99e9ffca to /16ca8c5c-9512-476b-966e-7dcfeea97b3e/75c35b9c-a279-446d-a007-405c8b03e1ee.
+Reconnected TH28 pin 2 from Therm27 to Therm28.
+Updated TH29 symbol association from /16ca8c5c-9512-476b-966e-7dcfeea97b3e/75c35b9c-a279-446d-a007-405c8b03e1ee to /16ca8c5c-9512-476b-966e-7dcfeea97b3e/a49f8256-303c-45e4-b7c3-e3e6400bc7db.
+Updated TH18 symbol association from /16ca8c5c-9512-476b-966e-7dcfeea97b3e/2f00b00e-40ea-49dd-a9f3-c0b1d476fde3 to /16ca8c5c-9512-476b-966e-7dcfeea97b3e/56643872-d99f-4f4d-8d02-088ec52f3bb4.
+Updated TH30 symbol association from /16ca8c5c-9512-476b-966e-7dcfeea97b3e/a49f8256-303c-45e4-b7c3-e3e6400bc7db to /16ca8c5c-9512-476b-966e-7dcfeea97b3e/f131d40f-5300-47fe-abc6-47f19d32e446.
+Reconnected TH30 pin 2 from Therm29 to Therm30.
+Updated TH31 symbol association from /16ca8c5c-9512-476b-966e-7dcfeea97b3e/f131d40f-5300-47fe-abc6-47f19d32e446 to /16ca8c5c-9512-476b-966e-7dcfeea97b3e/1e699658-3403-45ee-884b-060264cb2f56.
+Reconnected TH31 pin 2 from Therm30 to Therm31.
+Updated TH32 symbol association from /16ca8c5c-9512-476b-966e-7dcfeea97b3e/1e699658-3403-45ee-884b-060264cb2f56 to /16ca8c5c-9512-476b-966e-7dcfeea97b3e/ff283eae-f8e6-4453-82ad-0dcaa1d59c4c.
+Reconnected TH32 pin 2 from Therm31 to Therm32.
+
+
+Changed TH17 value from R_0603_1608Metric to Thermistor.
+Connected TH17 pin 2 to Therm17.
+Reconnected TH18 pin 2 from Therm17 to Therm18.
+Connected TH17 pin 1 to GND.
+Updated TH19 symbol association from /16ca8c5c-9512-476b-966e-7dcfeea97b3e/56643872-d99f-4f4d-8d02-088ec52f3bb4 to /16ca8c5c-9512-476b-966e-7dcfeea97b3e/f2de910d-7483-4976-a156-dd2b1c1e1f7a.
+Reconnected TH19 pin 2 from Therm18 to Therm19.
+Updated TH17 footprint filters to 'R_*'.
+Updated TH20 symbol association from /16ca8c5c-9512-476b-966e-7dcfeea97b3e/f2de910d-7483-4976-a156-dd2b1c1e1f7a to /16ca8c5c-9512-476b-966e-7dcfeea97b3e/bce1c82f-d836-4038-adf5-92d31db2ea7d.
+Reconnected TH20 pin 2 from Therm19 to Therm20.
+Updated TH17 sheetfile to 'Thermistors(2)(1).kicad_sch'.
+Updated TH21 symbol association from /16ca8c5c-9512-476b-966e-7dcfeea97b3e/bce1c82f-d836-4038-adf5-92d31db2ea7d to /16ca8c5c-9512-476b-966e-7dcfeea97b3e/9bd53000-3487-46e2-be08-0297387e9ec0.
+Reconnected TH21 pin 2 from Therm20 to Therm21.
+Updated TH17 sheetname to '/Thermisters[17:32]/'.
+Updated TH22 symbol association from /16ca8c5c-9512-476b-966e-7dcfeea97b3e/9bd53000-3487-46e2-be08-0297387e9ec0 to /16ca8c5c-9512-476b-966e-7dcfeea97b3e/04e1f137-9ebb-4181-ac5d-23b20f190f95.
+Reconnected TH22 pin 2 from Therm21 to Therm22.
+Updated TH17 fields.
+Updated TH23 symbol association from /16ca8c5c-9512-476b-966e-7dcfeea97b3e/04e1f137-9ebb-4181-ac5d-23b20f190f95 to /16ca8c5c-9512-476b-966e-7dcfeea97b3e/7c525f24-3ae0-41e1-b552-7a3ee509d5b3.
+Reconnected TH23 pin 2 from Therm22 to Therm23.
+Updated TH17 symbol association from  to /16ca8c5c-9512-476b-966e-7dcfeea97b3e/2f00b00e-40ea-49dd-a9f3-c0b1d476fde3.
+Updated TH24 symbol association from /16ca8c5c-9512-476b-966e-7dcfeea97b3e/7c525f24-3ae0-41e1-b552-7a3ee509d5b3 to /16ca8c5c-9512-476b-966e-7dcfeea97b3e/6f007948-a31f-414d-a080-e54900bb7d5d.
+Reconnected TH24 pin 2 from Therm23 to Therm24.
+Updated TH25 symbol association from /16ca8c5c-9512-476b-966e-7dcfeea97b3e/6f007948-a31f-414d-a080-e54900bb7d5d to /16ca8c5c-9512-476b-966e-7dcfeea97b3e/f44c1cf5-162e-4303-b2f7-bfff2e13f5a2.
+Error: Cannot add J3 (footprint 'OEM:SAMTEC_T2M-110-01-X-D-TH-WT' not found).
+Error: Cannot add J1 (footprint 'OEM:SAMTEC_T2M-110-01-X-D-TH-WT' not found).
+Error: Cannot add J4 (footprint 'OEM:SAMTEC_T2M-110-01-X-D-TH-WT' not found).
+
+
+Info: Total warnings: 0, errors: 3.
